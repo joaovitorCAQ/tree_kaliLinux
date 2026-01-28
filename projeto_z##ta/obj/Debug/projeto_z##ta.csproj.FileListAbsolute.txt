@@ -1,8 +1,0 @@
-C:\Users\ejcar\source\repos\projeto_z##ta\projeto_z##ta\bin\Debug\projeto_z##ta.exe.config
-C:\Users\ejcar\source\repos\projeto_z##ta\projeto_z##ta\bin\Debug\projeto_z##ta.exe
-C:\Users\ejcar\source\repos\projeto_z##ta\projeto_z##ta\bin\Debug\projeto_z##ta.pdb
-C:\Users\ejcar\source\repos\projeto_z##ta\projeto_z##ta\obj\Debug\projeto_z##ta.csproj.AssemblyReference.cache
-C:\Users\ejcar\source\repos\projeto_z##ta\projeto_z##ta\obj\Debug\projeto_z##ta.csproj.CoreCompileInputs.cache
-C:\Users\ejcar\source\repos\projeto_z##ta\projeto_z##ta\obj\Debug\projeto_z##ta.exe
-C:\Users\ejcar\source\repos\projeto_z##ta\projeto_z##ta\obj\Debug\projeto_z##ta.pdb
-C:\Users\ejcar\source\repos\projeto_z##ta\projeto_z##ta\obj\Debug\projeto_z##ta.exe.config
