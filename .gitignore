@@ -1,0 +1,10 @@
+# Visual Studio (SOLUÇÃO)
+.vs/
+
+# Build
+**/bin/
+**/obj/
+
+# Executáveis
+*.exe
+*.dll
