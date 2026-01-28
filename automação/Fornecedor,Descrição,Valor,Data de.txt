@@ -1,0 +1,1 @@
+Fornecedor,Descrição,Valor,Data de vencimento,status,loja X,Comprade papel A4,20.0,2025-04-10,Pendente,Provedor Y,Serviço de internet,

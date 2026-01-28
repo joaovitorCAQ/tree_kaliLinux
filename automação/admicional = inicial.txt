@@ -1,0 +1,9 @@
+admicional = inicial 
+periódico = sequencial
+demincional = sequencial 
+(códigos) ->
+clinico 0295 sempre precisa colocar 
+0281
+EEC 
+ECG
+GLICEMIA 
